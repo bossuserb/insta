@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/StarkBotsIndustries/InstagramBot",
+  "repository": "https://github.com/bossuserb/insta",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -35,17 +35,17 @@
     "API_ID": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "3493940"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "253a414629cbea3e3a6a717f140f7cda"
     },
     "BOT_TOKEN": {
       "description": "Obtain a Telegram bot token by contacting @BotFather",
       "required": true,
-      "value": ""
+      "value": "5143841596:AAFcFEm1MNA57sPgYUYOTK06aoCrSqy14-k"
     },
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
@@ -55,12 +55,12 @@
     "INSTA_USERNAME": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "husnumustafayev75"
     },
     "INSTA_PASSWORD": {
       "description": "Get this value from my.telegram.org.",
       "required": true,
-      "value": ""
+      "value": "husnum11"
     }
   }
 }
